@@ -28,11 +28,19 @@ span{
     color: yellow;
 }
 .redes{
+    width: 500px;
     text-align: center;
-   border: white 3px solid; width: 40%;
+   border: white 3px solid; 
    color: rgb(13, 16, 177);
    background-color: rgb(11, 235, 67);
    font-size: 1em;
-
    font-family: Arial, Helvetica, sans-serif
+   
+}
+.exp{
+    width: 500px;
+    background-color: aqua;   
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    border: rgb(238, 8, 8) 3px dashed;
 }
